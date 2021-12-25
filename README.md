@@ -1,2 +1,2 @@
 # git-learning
-Git öğrenme reposudur.
+It's created for git learning
